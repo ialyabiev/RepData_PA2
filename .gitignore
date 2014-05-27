@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+data/
+*.html
+*.htm
+*.txt
+*.bak
+*.Rproj
